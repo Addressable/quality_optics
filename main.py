@@ -12,6 +12,7 @@ class Main:
         self._s3_utils = S3Utils(self._config.get('aws_destination_bucket'))
 
     def run(self):
+        self._s3_utils.list()
 
 
 
