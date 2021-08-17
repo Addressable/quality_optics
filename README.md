@@ -1,1 +1,1 @@
-# qualty_optics
+# quality_optics
